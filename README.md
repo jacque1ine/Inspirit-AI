@@ -1,2 +1,2 @@
 # Inspirit-AI
-Introductory high-level program written in Python
+Introductory AI programs written in Python in Jupyter Notebook. 
